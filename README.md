@@ -17,4 +17,19 @@ Jenkins is an open source automation server which enables developers to reliably
 11. Create an account for Jenkins
 12. Complete setup and redirect to Jenkins dashboard
 
+## Open/Close Jenkins server
+
+Open and close Jenkins server at path `C:\Program Files\Jenkins`.
+
+```bash
+# stop
+jenkins.exe stop
+
+# start
+jenkins.exe start
+
+# restart
+jenkins.exe restart
+```
+
 ## Set up Git
